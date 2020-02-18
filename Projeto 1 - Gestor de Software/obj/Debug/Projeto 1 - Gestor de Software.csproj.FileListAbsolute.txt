@@ -1,0 +1,62 @@
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe.config
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csprojAssemblyReference.cache
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Form1.resources
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Properties.Resources.resources
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.GenerateResource.cache
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.CoreCompileInputs.cache
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Form2.resources
+C:\Users\maiki - o men\Desktop\Trabalho - AED\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Form3.resources
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe.config
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csprojAssemblyReference.cache
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormLogin.resources
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardSI.resources
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormRegistar.resources
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Properties.Resources.resources
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.GenerateResource.cache
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.CoreCompileInputs.cache
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\9170113\Desktop\Grupo13_AED_TP01\Aed - work\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe.config
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormLogin.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardSI.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormRegistar.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Properties.Resources.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe.config
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormLogin.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardSI.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormRegistar.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Properties.Resources.resources
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe.config
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\bin\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csprojAssemblyReference.cache
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardDocente.resources
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormLogin.resources
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardSI.resources
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormRegistar.resources
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.Properties.Resources.resources
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.GenerateResource.cache
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.csproj.CoreCompileInputs.cache
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.exe
+C:\Users\9170113\Desktop\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto 1 - Gestor de Software.pdb
+C:\Users\André\Desktop\André\Uni\AED\2018-2019\TP-01\Projeto 1 - Gestor de Software\Projeto 1 - Gestor de Software\obj\Debug\Projeto_1___Gestor_de_Software.FormDashboardDocente.resources

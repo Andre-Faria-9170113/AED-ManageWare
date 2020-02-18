@@ -1,0 +1,5 @@
+01;Pedido de Instalação de Software
+02;Pedido de Configuração de Software
+03;Computador avariado
+04;Cabos
+05;Outro

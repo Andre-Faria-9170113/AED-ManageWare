@@ -1,0 +1,4 @@
+﻿abc123;abc123@gmail.com;abc123;segurança
+mariopinto;mariopinto@esmad.ipp.pt;abc123;docente
+andré;andre@gmail.com;abc123;docente
+miguel;miguel@gmail.com;abc123;docente
