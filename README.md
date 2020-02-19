@@ -2,7 +2,7 @@
 
 This Project consists of a Windows Form Application intended for managing software installation and maintenance requests across ESMAD's various classrooms, developed as part of the "Algoritmia e Estrutura de Dados" course, integrated in the first year curriculum of the TSIW degree at ESMAD.
 
-### Prerequisites
+## Prerequisites
 
 Visual Studio 2017 or similar.
 
